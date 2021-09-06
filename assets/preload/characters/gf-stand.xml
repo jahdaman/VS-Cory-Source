@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gf-stand.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf sad stand0000" x="0" y="0" width="325" height="440" frameX="0" frameY="-1" frameWidth="328" frameHeight="441"/>
+	<SubTexture name="gf sad stand0001" x="0" y="0" width="325" height="440" frameX="0" frameY="-1" frameWidth="328" frameHeight="441"/>
+	<SubTexture name="gf sad stand0002" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0003" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0004" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0005" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0006" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0007" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0008" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0009" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0010" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0011" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0012" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0013" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0014" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0015" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0016" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0017" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0018" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0019" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0020" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0021" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0022" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0023" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0024" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0025" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0026" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0027" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0028" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0029" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0030" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0031" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0032" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0033" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0034" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0035" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0036" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0037" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0038" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0039" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0040" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0041" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0042" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0043" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0044" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0045" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0046" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0047" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0048" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0049" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0050" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0051" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0052" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0053" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0054" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0055" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0056" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0057" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0058" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0059" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0060" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0061" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0062" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0063" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0064" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0065" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0066" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0067" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0068" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0069" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0070" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0071" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0072" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0073" x="1309" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0074" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0075" x="325" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0076" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0077" x="653" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0078" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf sad stand0079" x="981" y="0" width="328" height="441"/>
+	<SubTexture name="gf stand0000" x="1637" y="0" width="329" height="441" frameX="0" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0001" x="1966" y="0" width="332" height="441" frameX="0" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0002" x="2298" y="0" width="323" height="441" frameX="-9" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0003" x="2621" y="0" width="334" height="441" frameX="-9" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0004" x="2955" y="0" width="330" height="441" frameX="-13" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0005" x="3285" y="0" width="333" height="441" frameX="-13" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0006" x="3618" y="0" width="332" height="441" frameX="-14" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0007" x="0" y="441" width="333" height="441" frameX="-14" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0008" x="333" y="441" width="332" height="441" frameX="-15" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0009" x="665" y="441" width="332" height="441" frameX="-15" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0010" x="997" y="441" width="332" height="441" frameX="-15" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0011" x="1329" y="441" width="332" height="441" frameX="-15" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0012" x="1329" y="441" width="332" height="441" frameX="-15" frameY="-5" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0013" x="1661" y="441" width="330" height="446" frameX="-15" frameY="0" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0014" x="1991" y="441" width="357" height="436" frameX="-5" frameY="-10" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0015" x="1991" y="441" width="357" height="436" frameX="-5" frameY="-10" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0016" x="2348" y="441" width="345" height="440" frameX="-12" frameY="-6" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0017" x="2348" y="441" width="345" height="440" frameX="-12" frameY="-6" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0018" x="2693" y="441" width="341" height="442" frameX="-14" frameY="-4" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0019" x="2693" y="441" width="341" height="442" frameX="-14" frameY="-4" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0020" x="3034" y="441" width="340" height="443" frameX="-15" frameY="-3" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0021" x="3374" y="441" width="340" height="444" frameX="-15" frameY="-2" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0022" x="3714" y="441" width="340" height="444" frameX="-15" frameY="-2" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0023" x="0" y="887" width="339" height="443" frameX="-15" frameY="-3" frameWidth="362" frameHeight="446"/>
+	<SubTexture name="gf stand0024" x="339" y="887" width="340" height="443" frameX="-14" frameY="-3" frameWidth="362" frameHeight="446"/>
+</TextureAtlas>
