@@ -1,11 +1,55 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				30,
-				215
-			],
 			"loop": false,
+			"offsets": [
+				27,
+				146
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				118
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				127
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				136
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				140
+			],
 			"fps": 12,
 			"anim": "idle",
 			"indices": [],
@@ -13,52 +57,8 @@
 		},
 		{
 			"offsets": [
-				58,
-				226
-			],
-			"loop": false,
-			"fps": 12,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
-		},
-		{
-			"offsets": [
-				36,
-				195
-			],
-			"loop": false,
-			"fps": 12,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
-			"offsets": [
-				28,
-				207
-			],
-			"loop": false,
-			"fps": 12,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up"
-		},
-		{
-			"offsets": [
-				9,
-				210
-			],
-			"loop": false,
-			"fps": 12,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
-		},
-		{
-			"offsets": [
-				8,
-				222
+				-28,
+				149
 			],
 			"loop": false,
 			"fps": 12,
@@ -71,19 +71,19 @@
 	"image": "characters/cory",
 	"position": [
 		0,
-		120
+		0
 	],
 	"healthicon": "cory",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		255,
+		128,
+		213
 	],
 	"camera_position": [
-		-110,
-		-190
+		-100,
+		-130
 	],
-	"sing_duration": 4,
-	"scale": 0.9
+	"sing_duration": 6.1,
+	"scale": 1
 }

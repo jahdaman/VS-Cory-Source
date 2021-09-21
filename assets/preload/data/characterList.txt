@@ -1,5 +1,6 @@
 bf
 cory
+keytar-cory
 cory-bf
 dad
 gf
