@@ -1,79 +1,79 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				27,
-				146
+				-353
 			],
-			"fps": 12,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 12,
+			"name": "left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				118
+				-39,
+				-415
 			],
-			"fps": 12,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 12,
+			"name": "down",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-1,
-				127
+				3,
+				-350
 			],
-			"fps": 12,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 12,
+			"name": "up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-17,
-				136
+				-23,
+				-368
 			],
-			"fps": 12,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-369
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [
-				0,
-				140
-			],
-			"fps": 12,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
 			"offsets": [
 				-28,
 				149
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "hey",
-			"indices": [],
-			"name": "hey"
+			"fps": 12,
+			"name": "hey",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/cory",
+	"image": "characters/cury",
 	"position": [
 		0,
-		0
+		20
 	],
-	"healthicon": "cory",
+	"healthicon": "cury",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -81,8 +81,8 @@
 		213
 	],
 	"camera_position": [
-		-100,
-		-130
+		-90,
+		480
 	],
 	"sing_duration": 6.1,
 	"scale": 1
